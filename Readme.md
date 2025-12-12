@@ -1,1 +1,1 @@
-(Сайт)[https://rukekarua.github.io/kekstagram/]
+[Сайт](https://rukekarua.github.io/kekstagram/)
